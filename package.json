@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://stefanlang-test-package"
+    "url": "git@github.com:slangben/stefanlang-test-package.git"
   },
   "author": "",
   "license": "ISC"
